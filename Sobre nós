@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nós - Igreja Exemplo</title>
+</head>
+<body>
+    <header>
+        <h1>Igreja Paz e Vida Prazeres</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre Nós</a></li>
+                <li><a href="eventos.html">Eventos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Sobre Nós</h2>
+            <p> Nossa igreja tem a missão de servir a comunidade local e compartilhar os ensinamentos de Cristo. Nossa visão é ser uma luz no mundo, trazendo esperança e amor para todos.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Igreja Paz e vida Prazeres. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
