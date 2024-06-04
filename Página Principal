@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Igreja Paz e vida em Prazeres
+</head>
+<body>
+    <header>
+        <h1>Igreja Paz e vida em Prazeres</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre Nós</a></li>
+                <li><a href="eventos.html">Eventos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Bem-vindo à Igreja Exemplo</h2>
+            <p>Somos uma comunidade dedicada à fé, esperança e amor. Junte-se a nós em nossos serviços e eventos.</p>
+        </section>
+        <section>
+            <h2>Próximos Eventos</h2>
+            <ul>
+                <li>Culto de Domingo - 10h</li>
+                <li>Grupo de Oração - Quarta-feira, 19h</li>
+                <li>Estudo Bíblico - Sexta-feira, 20h</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Igreja Exemplo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
